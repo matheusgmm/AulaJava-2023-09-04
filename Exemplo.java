@@ -10,5 +10,9 @@ public class Exemplo {
 
         System.out.println("Olá Mundo");
         System.out.println(pes.getNome());
+
+        ExemploFor.execute();
+        ExemploWhile.execute();
+        ExemploCondicional.execute();
     }
 }
